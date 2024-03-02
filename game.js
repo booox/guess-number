@@ -1,3 +1,6 @@
+
+import inquirer from "inquirer";
+
 // Import the readline module
 const readline = require('readline');
 
